@@ -6,8 +6,6 @@ The roadmap repository is for communicating Planar's roadmap. Existing issues ar
 # Guide to the Roadmap
 Every item on the roadmap is an issue, with a label that indicates each of the following: 
 * A **release phase** that indicates the current phase of the feature, for the full ist of phases, see below.
-* A **feature area** that indicates the area of the product to which the item belongs. For the full list, see below.
-* A **feature** indicates the feature or product to which the item belongs. For the full list, see below.
 * Once a feature is delivered, the **shipped** label will be applied to the roadmap, the issue will be closed, and it will be moved to the appropriate release column. 
 
 # Submit Feedback or Bug Reports
@@ -21,15 +19,9 @@ Feature is currently in the design phase. The feature has been approved for futu
 * **alpha:** *Primarily for testing and feedback* <br>
 Limited availability, requires pre-release agreement. Features still under heavy development, subject to change, and may result in data loss or corruption. 
 * **beta:** *Publicly available in full or limited capacity*<br>
-Features that are mostly complete, requires the user be opted into beta features. 
-* **shipped:** *Released to the general audience* <br>
+Features that are mostly complete, requires the user be opted into beta features. Bug fixes will be prioritized.
+* **done:** *Generally available and complete* <br>
 Ready for production use and available to all users. 
-
-# Feature Areas
-The following is a list of my current feature areas:
-
-# Feature
-The following is a list our current features with distinct labels for filtering: 
 
 # Disclaimer
 Any and all statements that are not purely historical are considered forward-looking. All forward-looking statements are made based on the information available to Planar at the time they were posted. This roadmap and all statements within are subject to change and Planar assumes no obligation to update the statements made nor does the statement represent any commitment, guarantee, obligation, or promise to deliver any feature or to deliver any feature by any particular date, and is intended to outline the general development plan. Do not rely on this roadmap to make any purchasing decisions.
