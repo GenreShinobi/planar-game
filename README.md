@@ -22,7 +22,7 @@ Feature is currently in the design phase. The feature has been approved for futu
 Limited availability, requires pre-release agreement. Features still under heavy development, subject to change, and may result in data loss or corruption. 
 * **beta:** *Publicly available in full or limited capacity*<br>
 Features that are mostly complete, requires the user be opted into beta features. 
-* **ga:** *Generally available to all users* <br>
+* **shipped:** *Released to the general audience* <br>
 Ready for production use and available to all users. 
 
 # Feature Areas
